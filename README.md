@@ -78,13 +78,13 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+![image](https://github.com/keerthanajayasri/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121163440/37b700c5-7d6d-4d5a-9eeb-20127e460899)
 
 
 
 ## Output  :
- 
- 
- 
+ ![image](https://github.com/keerthanajayasri/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/121163440/e6cc914d-e968-45f4-b805-b94dbade01f0)
+
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
